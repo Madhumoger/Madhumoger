@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 <div align="center">
-  <img alt="This is a GIF" src="" width="950"px height="450"px/>
+  <img alt="This is a GIF" src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="950"px height="450"px/>
 </div>
                                                                                                                                              
 <hr>
