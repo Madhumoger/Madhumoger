@@ -35,13 +35,13 @@ Here are some ideas to get you started:
                                                                                                              
 - :department_store:<a href="https://github.com/Madhumoger/AUTOEASE.git">AutoEase</a> <br>
 - :falafel::plate_with_cutlery:<a href="https://github.com/Madhumoger/BUS_FINDER_APP.git">BUS_FINDER</a>
-- 🚀<a href="https://github.com/thushar28/OpenGL-Project-Rocket-Launch-">AeroPlane Takeoff and Landing System(OpenGL Project)</a>
-- 🍜 <a href="https://github.com/thushar28/MessEatz-Application">MessEatz(Restaurant Finder)</a>  
+- 🚀<a href="">AeroPlane Takeoff and Landing System(OpenGL Project)</a>
+- 🍜 <a href="">Synchronous</a>  
 - :hourglass: Much more to roll out.<br>                                
                                                                        
      <a href="https://github.com/thushar28/College-Stuff"><img src="https://readme-typing-svg.demolab.com?font=Antonio&pause=1000&color=F73255&width=409&height=40&lines=College+Repo's" alt="Typing SVG" /></a>
  
-## :hammer_and_wrench: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=tOOLS" alt="Typing SVG"/>
+## :hammer_and_wrench: <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75919&width=435&lines=To+View+Click+on+Projectname...." alt="Typing SVG" /></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px"/>
