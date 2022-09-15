@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <h3>Feel Free to Investigate On:</h3>
                                                                                                              
 - :department_store:<a href="https://github.com/Madhumoger/AUTOEASE.git">AutoEase</a> <br>
-- :falafel::plate_with_cutlery:<a href="https://github.com/thushar28/Crunch-it">Crunch It</a>
-- 🚀<a href="https://github.com/thushar28/OpenGL-Project-Rocket-Launch-">Rocket Launch(OpenGL Project)</a>
+- :falafel::plate_with_cutlery:<a href="https://github.com/Madhumoger/BUS_FINDER_APP.git">BUS_FINDER</a>
+- 🚀<a href="https://github.com/thushar28/OpenGL-Project-Rocket-Launch-">AeroPlane Takeoff and Landing System(OpenGL Project)</a>
 - 🍜 <a href="https://github.com/thushar28/MessEatz-Application">MessEatz(Restaurant Finder)</a>  
 - :hourglass: Much more to roll out.<br>                                
                                                                        
