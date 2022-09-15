@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 <h3>Feel Free to Investigate On:</h3>
                                                                                                              
-- :department_store:<a href="https://github.com/thushar28/Real-Estate-Management-System-DBMS-">AutoEase</a> <br>
+- :department_store:<a href="https://github.com/Madhumoger/AUTOEASE.git">AutoEase</a> <br>
 - :falafel::plate_with_cutlery:<a href="https://github.com/thushar28/Crunch-it">Crunch It</a>
 - 🚀<a href="https://github.com/thushar28/OpenGL-Project-Rocket-Launch-">Rocket Launch(OpenGL Project)</a>
 - 🍜 <a href="https://github.com/thushar28/MessEatz-Application">MessEatz(Restaurant Finder)</a>  
