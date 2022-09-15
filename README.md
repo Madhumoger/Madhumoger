@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h2><b>ABOUT ME<b></h2>
 
-- 🔭 I’m currently studying in Mangalore Institute of Technology and Engineering.<img align="right" src="https://github.com/thushar28/Profile-Page/blob/main/giphy.gif" width="300px"/>
+- 🔭 I’m currently studying in Mangalore Institute of Technology and Engineering.<img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300px"/>
 - 🌱 I’m currently learning JavaScript,React,App Development,Web Development.
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
