@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 <div align="center">
-  <img alt="This is a GIF" src="https://github.com/thushar28/Profile-Page/blob/main/77caa32884d735d439ade45ba37feaf2.gif" width="950"px height="450"px/>
+  <img alt="This is a GIF" src=" width="950"px height="450"px/>
 </div>
                                                                                                                                              
 <hr>
-<h2 align="center"><b><a href="https://github.com/thushar28">THUSHAR HERE</a></b><img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="40px"/></h2>
+<h2 align="center"><b><a href="https://github.com/Madhumoger">MADHU HERE</a></b><img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="40px"/></h2>
 
 <h2><b>ABOUT ME<b></h2>
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...-->
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/thushar-r-3b1790211/"><img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
 <!--- <img src="https://github.com/thushar28/GIFS/blob/main/gmail-logo-1-1.png" width="70px" alt="Gmail Badge"/> - thusharrao28@gmail.com-->
-- ⚡ Fun fact: <img src="https://github.com/thushar28/Profile-Page/blob/main/404.gif" width="100px" height="30px"/> <br>
-<h3>:man_technologist:Feel Free to Investigate On:</h3>
+- ⚡ Fun fact: 
+<h3>Feel Free to Investigate On:</h3>
                                                                                                              
 - :department_store:<a href="https://github.com/thushar28/Real-Estate-Management-System-DBMS-">Real Estate Management System</a> <br>
 - :falafel::plate_with_cutlery:<a href="https://github.com/thushar28/Crunch-it">Crunch It</a>
@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 <hr>
 <h3>MY STREAKS 🔥</h3>
                                                                                                          
-![GitHub Streak](https://streak-stats.demolab.com?user=thushar28&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Madhumoger&theme=dark)
  <hr>         
