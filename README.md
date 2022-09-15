@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...-->
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/thushar-r-3b1790211/"><img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
-<!--- <img src="https://github.com/thushar28/GIFS/blob/main/gmail-logo-1-1.png" width="70px" alt="Gmail Badge"/> - thusharrao28@gmail.com-->
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/madhu-moger-37ba49200"><img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
+<!--- <img src="https://github.com/thushar28/GIFS/blob/main/gmail-logo-1-1.png" width="70px" alt="Gmail Badge"/> - madhumoger4@@gmail.com-->
 - ⚡ Fun fact: 
 <h3>Feel Free to Investigate On:</h3>
                                                                                                              
-- :department_store:<a href="https://github.com/thushar28/Real-Estate-Management-System-DBMS-">Real Estate Management System</a> <br>
+- :department_store:<a href="https://github.com/thushar28/Real-Estate-Management-System-DBMS-">AutoEase</a> <br>
 - :falafel::plate_with_cutlery:<a href="https://github.com/thushar28/Crunch-it">Crunch It</a>
 - 🚀<a href="https://github.com/thushar28/OpenGL-Project-Rocket-Launch-">Rocket Launch(OpenGL Project)</a>
 - 🍜 <a href="https://github.com/thushar28/MessEatz-Application">MessEatz(Restaurant Finder)</a>  
