@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Madhumoger/Madhumoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
@@ -29,18 +28,30 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...-->
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/madhu-moger-37ba49200"><img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
-<!--- <img src="https://github.com/thushar28/GIFS/blob/main/gmail-logo-1-1.png" width="70px" alt="Gmail Badge"/> - madhumoger4@@gmail.com-->
-- ⚡ Fun fact: 
+
+
+<h2><b>🛠️ Tech Stack<b></h2>
+
+Languages: Kotlin, Java
+
+Frameworks & Tools: Jetpack Compose, Koin/Dagger-Hilt
+
+Databases: SQLite, Firebase Realtime Database
+
+Other: Git, Gradle, REST APIs,
+
 <h3>Feel Free to Investigate On:</h3>
                                                                                                              
 - :department_store:<a href="https://github.com/Madhumoger/AUTOEASE.git">AutoEase</a> <br>
 - :falafel::plate_with_cutlery:<a href="https://github.com/Madhumoger/BUS_FINDER_APP.git">BUS_FINDER</a>
 - 🚀<a href="">AeroPlane Takeoff and Landing System(OpenGL Project)</a>
-- 🍜 <a href="">Synchronous</a>  
+- 🍜 <a href="https://github.com/palashchiplunkar/Godsend-App">Synchronous</a>
+- 🍜 <a href="https://github.com/Madhumoger/MadGames">MadGames</a>
 - :hourglass: Much more to roll out.<br>                                
                                                                        
      <a href="https://github.com/thushar28/College-Stuff"><img src="https://readme-typing-svg.demolab.com?font=Antonio&pause=1000&color=F73255&width=409&height=40&lines=College+Repo's" alt="Typing SVG" /></a>
+
+     - 📫 How to reach me: <a href="https://www.linkedin.com/in/madhu-moger-37ba49200"><img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
  
 ## :hammer_and_wrench: <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75919&width=435&lines=To+View+Click+on+Projectname...." alt="Typing SVG" /></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px"/>
