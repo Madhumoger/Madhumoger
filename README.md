@@ -1,68 +1,76 @@
-
-<!--
-**Madhumoger/Madhumoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+<!-- Banner / GIF -->
 <div align="center">
-  <img alt="This is a GIF" src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="950"px height="450"px/>
+  <img alt="Welcome Banner" src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="950" height="450"/>
 </div>
-                                                                                                                                             
-<hr>
-<h2 align="center"><b><a href="https://github.com/Madhumoger">👋 Hi, I’m Madhu Moger</a></b><img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="40px"/></h2>
 
-<h2><b>ABOUT ME<b></h2>
+---
 
--  💻 Currently working as an Android Application Developer with 2+ years of experience<img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300px"/>
-- 📱 Skilled in Kotlin, Java, Jetpack Compose, Coroutines, MVVM, Retrofit, SQLITE, Firebase
-- 🌱 Exploring KMP (Kotlin Multiplatform) & modern Android development practices
-<!-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...-->
+<h2 align="center">
+  👋 Hi, I’m <a href="https://github.com/Madhumoger">Madhu Moger</a>  
+  <img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="35px"/>
+</h2>
 
+---
 
-<h2><b>🛠️ Tech Stack<b></h2>
+## 🚀 About Me  
 
-Languages: Kotlin, Java
+- 💻 Android Application Developer with **2+ years of experience**  
+- 📱 Skilled in **Kotlin, Java, Jetpack Compose, Coroutines, MVVM, Retrofit, SQLite, Firebase**  
+- 🌱 Currently exploring **Kotlin Multiplatform (KMP)** & modern Android practices  
+- 🛠 Strong focus on **scalable architecture, clean code, and performance optimization**  
+- 🎯 Passionate about **problem-solving & building impactful mobile apps**  
 
-Frameworks & Tools: Jetpack Compose, Koin/Dagger-Hilt
+<img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250px"/>
 
-Databases: SQLite, Firebase Realtime Database
+---
 
-Other: Git, Gradle, REST APIs,
+## 🛠 Tech Stack  
 
-<h3>Feel Free to Investigate On:</h3>
-                                                                                                             
-- :department_store:<a href="https://github.com/Madhumoger/AUTOEASE.git">AutoEase</a> <br>
-- :falafel::plate_with_cutlery:<a href="https://github.com/Madhumoger/BUS_FINDER_APP.git">BUS_FINDER</a>
-- 🚀<a href="">AeroPlane Takeoff and Landing System(OpenGL Project)</a>
-- 🍜 <a href="https://github.com/palashchiplunkar/Godsend-App">Synchronous</a>
-- 🍜 <a href="https://github.com/Madhumoger/MadGames">MadGames</a>
-- :hourglass: Much more to roll out.<br>                                
+**Languages:** Kotlin, Java, C, Python, PHP  
+**Frameworks & Tools:** Jetpack Compose, Koin/Dagger-Hilt, Gradle  
+**Databases:** SQLite, Firebase Realtime DB, MySQL  
+**Others:** Git, REST APIs, OpenGL  
 
-     - 📫 How to reach me: <a href="https://www.linkedin.com/in/madhu-moger-37ba49200"><img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
- 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"width="40px"/>                                      
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="40px"/>                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"width="40px"/>                                      
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40px"/>                                                     <img src="https://github.com/thushar28/Profile-Page/blob/main/png-transparent-dev-c-compiler-integrated-development-environment-c-free-text-logo-world.png" width="40px"/>                                                                                      
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40px"/>
-<hr>
-<h3>MY STREAKS 🔥</h3>
-                                                                                                         
-![GitHub Streak](https://streak-stats.demolab.com?user=Madhumoger&theme=dark)
- <hr>         
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40px"/>
+</div>
+
+---
+
+## 📂 Featured Projects  
+
+- 🏢 [**AutoEase**](https://github.com/Madhumoger/AUTOEASE.git) – Automated solution for businesses  
+- 🚌 [**BUS Finder App**](https://github.com/Madhumoger/BUS_FINDER_APP.git) – Real-time bus tracking  
+- 🛫 **Airplane Takeoff & Landing System** *(OpenGL Project)*  
+- 🎮 [**MadGames**](https://github.com/Madhumoger/MadGames) – Fun gaming applications  
+- 🤝 [**Synchronous (Collab Project)**](https://github.com/palashchiplunkar/Godsend-App)  
+- ⏳ More projects coming soon...  
+
+---
+
+## 🔗 Connect With Me  
+
+<a href="https://www.linkedin.com/in/madhu-moger-37ba49200">
+  <img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="80px" alt="LinkedIn"/>
+</a>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=Madhumoger&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumoger&layout=compact&theme=dark&hide_border=true)
+
+</div>
