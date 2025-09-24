@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 </div>
                                                                                                                                              
 <hr>
-<h2 align="center"><b><a href="https://github.com/Madhumoger">MADHU HERE</a></b><img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="40px"/></h2>
+<h2 align="center"><b><a href="https://github.com/Madhumoger">👋 Hi, I’m Madhu Moger</a></b><img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="40px"/></h2>
 
 <h2><b>ABOUT ME<b></h2>
 
-- 🔭 I’m currently studying in Mangalore Institute of Technology and Engineering.<img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300px"/>
-- 🌱 I’m currently learning JavaScript,React,App Development,Web Development.
+-  💻 Currently working as an Android Application Developer with 2+ years of experience<img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300px"/>
+- 📱 Skilled in Kotlin, Java, Jetpack Compose, Coroutines, MVVM, Retrofit, SQLITE, Firebase
+- 🌱 Exploring KMP (Kotlin Multiplatform) & modern Android development practices
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
