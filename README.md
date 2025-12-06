@@ -1,6 +1,6 @@
 <!-- Banner / GIF -->
 <div align="center">
-  <img alt="Welcome Banner" src="https://pin.it/3N4MW9r1p" width="950" height="450"/>
+  <img alt="Welcome Banner" src="Android Logo Transparent PNG Images, Transparent Android Logo Transparent Image Download.jpeg" width="950" height="450"/>
 </div>
 
 ---
