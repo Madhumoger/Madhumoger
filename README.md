@@ -14,7 +14,7 @@
 
 ## 🚀 About Me  
 
-- 💻 Android Application Developer with **2+ years of experience**  
+- 💻 Android Application Developer with **3 years of experience**  
 - 📱 Skilled in **Kotlin, Java, Jetpack Compose, Coroutines, MVVM, Retrofit, SQLite, Firebase**  
 - 🌱 Currently exploring **Kotlin Multiplatform (KMP)** & modern Android practices  
 - 🛠 Strong focus on **scalable architecture, clean code, and performance optimization**  
