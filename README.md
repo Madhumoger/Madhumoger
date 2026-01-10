@@ -49,8 +49,8 @@
 
 ## 📂 Featured Projects    
 
-- 🌦️ [**ClimaZen**](https://github.com/Madhumoger/climazen-weather-app) – Offline-first Jetpack Compose weather app with 4-day & hourly forecasts and dynamic day/night theming. *(Link: GitHub / Demo)*  
-- 📝 [**MadNoteX (Personal Notes App)**](https://github.com/Madhumoger/PersonalNotesApp) – Cross-platform note-taking app built with Compose Multiplatform for Android and iOS. *(Link: GitHub)*  
+- 🌦️ [**ClimaZen**](https://github.com/Madhumoger/climazen-weather-app) – Offline-first Jetpack Compose weather app with 4-day & hourly forecasts and dynamic day/night theming.
+- 📝 [**MadNoteX (Personal Notes App)**](https://github.com/Madhumoger/PersonalNotesApp) – Cross-platform note-taking app built with Compose Multiplatform for Android and iOS.  
 - 🎮 [**MadGames**](https://github.com/Madhumoger/MadGames) – Cross-platform gaming discovery app built with Kotlin Multiplatform and Compose Multiplatform.  
 - 🏢 [**AutoEase**](https://github.com/Madhumoger/AUTOEASE) – Automated business workflow solution.  
 - 🚌 [**BUS Finder App**](https://github.com/Madhumoger/BUS_FINDER_APP) – Real-time bus tracking application.  
