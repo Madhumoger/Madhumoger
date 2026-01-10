@@ -47,14 +47,15 @@
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects    
 
-- 🏢 [**AutoEase**](https://github.com/Madhumoger/AUTOEASE.git) – Automated solution for businesses  
-- 🚌 [**BUS Finder App**](https://github.com/Madhumoger/BUS_FINDER_APP.git) – Real-time bus tracking  
-- 🛫 **Airplane Takeoff & Landing System** *(OpenGL Project)*  
-- 🎮 [**MadGames**](https://github.com/Madhumoger/MadGames) – Fun gaming applications  
-- 🤝 [**Synchronous (Collab Project)**](https://github.com/palashchiplunkar/Godsend-App)  
-- ⏳ More projects coming soon...  
+- 🌦️ **ClimaZen**(https://github.com/Madhumoger/climazen-weather-app) – Offline-first Jetpack Compose weather app with 4-day & hourly forecasts and dynamic day/night theming. *(Link: GitHub / Demo)*  
+- 📝 **MadNoteX (Personal Notes App)** (https://github.com/Madhumoger/PersonalNotesApp) – Cross-platform note-taking app built with Compose Multiplatform for Android and iOS. *(Link: GitHub)*  
+- 🎮 [**MadGames**](https://github.com/Madhumoger/MadGames) – Cross-platform gaming discovery app built with Kotlin Multiplatform and Compose Multiplatform.  
+- 🏢 [**AutoEase**](https://github.com/Madhumoger/AUTOEASE) – Automated business workflow solution.  
+- 🚌 [**BUS Finder App**](https://github.com/Madhumoger/BUS_FINDER_APP) – Real-time bus tracking application.  
+- 🤝 [**Synchronous (Collaborative Project)**](https://github.com/palashchiplunkar/Godsend-App) – Real-time collaboration app.  
+ 
 
 ---
 
